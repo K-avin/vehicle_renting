@@ -1,0 +1,12 @@
+
+		jPanel47.setBackground(new Color(146, 14, 10));//M_DELETE
+		jPanel47.setBackground(new Color(139,103,253));//E_DELETE
+
+
+		jPanel48.setBackground(new Color(0, 139, 139));//M_UPTADE
+		jPanel48.setBackground(new Color(139,103,253));//E_UPDATE
+
+
+		jPanel49.setBackground(new Color(2, 94, 19));//M_SAVE
+		jPanel49.setBackground(new Color(139,103,253));//E_SAVE
+
